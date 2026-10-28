@@ -1,6 +1,7 @@
 Aleksander Żelechowski 337804
 Python
-https://github.com/zele222/OchronaDanych 
+https://github.com/zele222/OchronaDanych
+c0a4eba
 
 # Zad 1
 ## wyniki:
